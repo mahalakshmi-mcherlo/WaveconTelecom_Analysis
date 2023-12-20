@@ -17,7 +17,6 @@ Examined the impact of 5G on specific plans, advising on whether to continue, di
 Discontinued Plans
 Investigated plans that were discontinued post-5G launch, shedding light on the reasons behind such decisions.
 Usage :
-Clone the repository:git clone https://github.com/RavinaKarnik/Wavecon-Telecom-Analysis
 Navigate to the respective reports to access the analysis and insights.
 Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
 Contributing
@@ -33,7 +32,6 @@ SQL
 Movie maker
 OBS studio
 Linkedln Post :
-https://www.linkedin.com/posts/ravina-karnik_codebasics-virtualinternship-dataanalysis-activity-7133901861492826112-QsMm?utm_source=share&utm_medium=member_desktop
+[https://www.linkedin.com/posts/ravina-karnik_codebasics-virtualinternship-dataanalysis-activity-7133901861492826112-QsMm?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/mahalakshmi-m-822064286_codebasicsvirtualinternship-codebasicsvirtualinternship-activity-7130454497109147648-6btV?utm_source=share&utm_medium=member_desktop)
 
-Power bi Dashboard :
-https://app.powerbi.com/view?r=eyJrIjoiODE1NTE3NjgtN2U0OC00MmNmLTliODYtODU0OTc5YzQ0NmRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection16b73cde20cf3ed17b51
+
