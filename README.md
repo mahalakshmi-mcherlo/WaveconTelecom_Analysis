@@ -27,11 +27,7 @@ The AtliQ Hardware dataset was used for this project, providing valuable wavecon
 
 Tools Used :
 Power bi
-Excel
 SQL
-Movie maker
-OBS studio
-Linkedln Post :
-[https://www.linkedin.com/posts/ravina-karnik_codebasics-virtualinternship-dataanalysis-activity-7133901861492826112-QsMm?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/mahalakshmi-m-822064286_codebasicsvirtualinternship-codebasicsvirtualinternship-activity-7130454497109147648-6btV?utm_source=share&utm_medium=member_desktop)
+
 
 
